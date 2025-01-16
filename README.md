@@ -3,9 +3,9 @@
 This repository contains code and resources for detecting USB sizes from disoriented camera images using Image Processing techniques and Machine Learning (KNN).
 
 ## Authors 
-Louai Abdallah BENAISSA
-Mohamed Khaled FERROUHKI
-Ahmed Assem MEDDAH
+- Louai Abdallah BENAISSA
+- Mohamed Khaled FERROUHKI
+- Ahmed Assem MEDDAH
 
 ## Files
 
