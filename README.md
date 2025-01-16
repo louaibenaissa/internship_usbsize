@@ -1,4 +1,4 @@
-# Advanced Silicone Algeria Internship
+# Advanced Silicon Algeria Internship
 
 This repository contains code and resources for detecting USB sizes from disoriented camera images using Image Processing techniques and Machine Learning (KNN).
 
